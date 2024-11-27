@@ -54,7 +54,10 @@ GitHub Repository: [https://github.com/prashanth370/real-time-chat-application](
 
   - cd real-time-chat-application/backend
 
-
-### Install dependencies:
+1. Clone the repository:
   ```bash
-  - npm install
+  - git clone [https://github.com/prashanth370/real-time-chat-application.git](https://github.com/prashanth370/real-      time-chat-application.git)
+
+  - cd real-time-chat-application/backend
+
+
