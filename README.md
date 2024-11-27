@@ -1,3 +1,7 @@
+![image](https://github.com/user-attachments/assets/5bad286b-cf32-43e4-b553-ce76fcdc2426)
+
+
+
 # Real-Time Chat Application
 
 ## Overview
