@@ -181,4 +181,45 @@ GitHub Repository: [https://github.com/prashanth370/real-time-chat-application](
    ```bash
    npm run dev
 
-   
+### Backend Setup
+1. Navigate to the frontend directory:
+   ```bash
+   cd ../frontend
+
+2. Install dependencies:
+   ```bash
+   npm install
+
+3. Start the frontend server:
+   ```bash
+   npm run dev
+
+
+
+## Usage
+
+1. Open your browser and go to `http://localhost:5173`
+2. Register a new account or log in with existing credentials
+3. Start chatting with other users in real-time
+
+## Deployment
+
+The application is currently deployed on Render. To deploy your own instance:
+
+1. Create a new Web Service on Render
+2. Connect your GitHub repository
+3. Set the appropriate environment variables
+4. Deploy the application
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+## Contact
+
+For any queries or suggestions, please contact [Your Name] at [your.email@example.com].
+
